@@ -1,0 +1,83 @@
+Manbir Singh Pahwa
+New York
+manbir.pahwal@outlook.com 
+U.S. citizen                                                
+
+SUMMARY OF QUALIFICATIONS
+
+•	Programming Languages VB.Net, C#, VBA, Bash, Python, Java
+•	Database: SQL Server, Oracle, MongoDB 
+•	Bigdata: Hadoop, Kafka, Hortonworks HDP/HDF
+•	Cloud: AWS, Azure
+
+PROFESSIONAL SUMMARY
+
+•	Extensive IT experience building data architecture and analytics for different data domain including financial and healthcare. 
+•	Strong debugging skills and the ability to re-engineer existing code.
+•	Ability to grasp new technologies and apply innovation to existing processes using the new tech stack.
+•	Self-motivated and always come up with creative solutions to enhance system functionality.
+•	Help in the development of junior resources with technical knowledge and mentoring them.
+•	Effective analytical and organizational skills both working as individual contributor or as a team member.
+•	Excellent team player with the capability to work across different user group, stakeholders, business users, project managers. 
+
+PROFESSIONAL EXPERIENCE
+
+NewYork-Presbyterian, Manhattan, NY	    		    			            		3Y 8M
+
+Data Architect 											Feb 2017 – Current
+•	Working on framework and pipeline to bring Google Analytics Cloud console API data using Python/Java on near real time basis to SQL and phase II involves pushing it to Hadoop for archiving and consumption by Marketing team.
+•	Designed and implemented framework and pipeline for bringing millions of data rows for 8 external Web trend APIs using Java and phase II involves converting it into threaded application. Currently data is stored in SQL Server for consumption by Marketing for Reporting purposes but need to store it to Hadoop to do aggregation and linkage with other data.
+•	Designed a Node.Js application to bring in Dialogtech data from cloud and stored it to SQL Server. 
+•	Developed data ingestions, and batch streaming pipelines in Python to download ServiceNow data as json text files using multiple APIs and consuming it to MongoDB and exporting it back to text file with flatten json data per row using python dictionary. The output used column headers in this text file to compare and generate dynamic SQL against the current table schema and SSIS imported the data to SQL Server. 
+•	Designed and implemented Java Spring RestAPI web services to display logs for all the above Cloud based API workflow into Mongodb database tables.
+
+Business Intelligence Technical Specialist								Jun 2016 – Feb 2017
+•	Communicated and collaborated with the team and management weekly.
+•	Migrated existing suite of single purpose and reporting legacy huge SQL stored procedures from one EMR system to another and currently working on mapping to third EMR Epic.
+•	Standardized development practices of database development by providing a framework for SSIS, which normalized the approach to routine data migrations as well as more robust ETL processes with archiving.
+•	Work closely with Business Requirements Analyst to understand and document business needs for decision support data and information repository needs.
+•	Resolve subsequent issues and make modifications to ensure ongoing correlation between data models and physical data base structure.
+•	Designed, implemented and managed the SQL platform that processes patient claims, provider and other healthcare domain data with optimal performance and ease of maintenance.
+
+Cleveland Clinic, Lyndhurst, OH 				    		          			8Y 10M	
+
+Enterprise BI Database Developer								Nov 2012 – Apr 2016
+•	Provided logical, physical, and dimensional data modelling expertise, for various projects using SSIS to collect data from various systems and consolidate accordingly.
+•	Facilitated data-driven decision-making with the implementation of executive dashboards for the tracking of data and quality trends. Physician Portal were generated every quarter on Physician level with their performances, benchmarks and targets, numerators and denominator calculations. Quarterly Review metrics included patient experiences, quality and LOS measures. Data ingestion included multiple sources csv, txt, mainframe extract, HL7 feeds, XML and Oracle. 
+
+Dot Net Programmer										Jun 2007 - Nov 2012
+•	Conceptualized, Designed, MyAnalytics project that become phenomenal success and had a very high acceptance among in-house users. It not only saved 50% of their time on quarterly basis but also organized their daily job. Frontend was both Excel and Web based and used C# DLL, file services and webservices, FTP and few thousand lines of VBA macro code.  
+•	Created an invoice matching process that resulted in saving millions of dollars that were going out because of duplicated invoices send by suppliers. It was huge success and was further used to reduce duplicate accounts billing discrepancies.
+•	Designed web applications using Asp.net as front end and SQL Server as backend, Web Apps included Physicians certifications by logging into the system and clicking Signature button and attaching the PDF. The process resulted in automatic workflow and notification and storage of the PDF and other documents at a secure location.
+•	Designed SQL reports (Month End, Treasury Reporting, AP Distribution Reporting and Travel Reporting (Customized Concur) for Finance department using the data stored in SQL database using web/windows applications.
+
+Recorders & Medicare System, Chandigarh, INDIA		    		          			2Y 3M
+
+Research Engineer										Apr 2005 - Jun 2006
+•	Designed the scrolling EEG graph paper in Vb.Net to display EEG brain waves from 32/64 channel electrodes.
+•	Designing 3d model of the skull and plotted voltages on it, in 3D space using OpenGL SDK and 3DMax.
+•	Captured high speed data from the microprocessor amplifier attached to brain using electrodes into binary format.
+
+Research Associate										Mar 2004 - April 2005
+•	Implemented multiple video monitoring/capturing for both patients face, eye, mouth moment and another camera focusing on entire body for hands and legs moment. This recording helped in removing the artifacts during the analysis of the eeg waves.
+•	Enabled the selection of patient’s data for archiving and exchanging among researches for independent review purposes. 
+•	Designing video recorder and player in VB.Net using MS DirectShow to use for patient monitoring. 
+•	Raw EEG Data & Video Archiver was successfully sold as an independent module for the existing customers and as an add-on in later versions.
+
+Freelance Consultant Programmer, New Delhi, INDIA		    		          		3Y
+
+Programmer											Mar 2001 - Feb 2004
+•	Was responsible and exposed to setting up basic tech components for smaller shops including hardware and network components and was responsible for annual maintenance and computer upgrades. 
+•	Role slowly transitioned into writing software related to inventory management and accounting modules for these smaller shops. The component/sub-component module helped them a lot for purchasing logistics decisions. Backend transitioned from FoxPro DBMS to MS Access and later to MS SQL server.
+
+PERSONAL PROJECTS
+
+•	Working on designing Amazon Personal Dashboard using Python and Selenium to automatically sign in and redirecting to order page and web scrap pages by page numbers and store content into Mongodb json format.
+•	Working on Financial Stock Engine using Python and created pipelines to extract/web scrap stock, mutual fund information and quotes from Yahoo, Morningstar, Nasdaq.  Currently data is saved in MS SQL Server and working on transferring it to Hadoop nodes. Need to add Twitter and Facebook feeds by using API. Phase 1 is currently downloading and accumulating data every week and every quarter but need to make it run every hour. 
+•	Working with HortonWork HDP/HDF Sandbox platform and exploring different tools that comes with the Hadoop ecosystem, learning about Nifi with Raspberry PI. Also working on creating producer, consumer apps to consume push data to 3 node Kafka cluster. Created my own 5 node big data Hadoop cluster on personal server on 5 ubuntu VMs. Also create a Kafka cluster.
+
+EDUCATION
+
+University of British Columbia, Vancouver, Canada					        		Aug 1996 -   May 2000
+Bachelor of Technology, Computer Systems
+	
